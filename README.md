@@ -3,6 +3,12 @@ Diabetes Prediction Model
 
 This project is a web application that predicts the likelihood of diabetes in a patient based on certain health metrics. The model was developed using a machine learning classifier and deployed using Streamlit for easy user interaction
 
+# Deployed Application
+
+You can interact with the deployed application here:
+
+((https://omotoso526.github.io/diabetes-prediction/))
+
 Overview
 
 The diabetes prediction model is designed to provide a quick, data-driven assessment of diabetes risk based on the PIMA Indian Diabetes Database. The app allows users to input several health indicators, such as blood pressure and glucose levels, to get a prediction about their likelihood of having diabetes.
